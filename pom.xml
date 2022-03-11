@@ -17,9 +17,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-     <sonar.organization>jenkinsdemotest1</sonar.organization>
-     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.login>0b5d0a751bdfe9ce142b3c639a606a0def8dd337</sonar.login>
+     <sonar.organization>ranjit1709</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>f31e197adc08eb31b9fea3a6d951a697aac01da2</sonar.login>
   </properties>
 
   <dependencies>
